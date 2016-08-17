@@ -12,11 +12,10 @@ Study Material for iOS Development in Objective-C.
 
 -	[Prerequisites](#prerequisites)
 -	[Requirements](#requirements)
-
 -	[iOS](#ios)
 	-	[Label | Button | View | Controller](#label-|-button-|-view-|-controller)
 	-	[TextField | Keyboard](#textfield-|-keyboard)
-	
+	-	[Slider & Switch](#slider-&-switch)
 -	[Contribution](#contribution)
 -	[Credits](#credits)
 -	[License](#license)
@@ -40,6 +39,10 @@ Study Material for iOS Development in Objective-C.
 ### TextField | Keyboard
 
 *	[Cat Years App](https://github.com/aashishtamsya/CatYears) - An iOS Application written in Objective-C which uses textfield and keyboard for calculation of cat years of a human age.
+
+### Slider & Switch
+
+*	[Slider & Switch](https://github.com/aashishtamsya/Sliders-Switch) - Implementation of slider & switches in iOS using Objective-C. 
 
 
 ## Contribution
