@@ -7,7 +7,6 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
-<[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()>
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](/LICENSE.md)
 
 Study Material for iOS Development in Objective-C.
@@ -21,6 +20,7 @@ Study Material for iOS Development in Objective-C.
 	-	[Label Button View and Controller](#label-button-view-and-controller)
 	-	[TextField and Keyboard](#textField-and-eyboard)
 	-	[Slider and Switch](#slider-and-switch)
+	-	[TableView With AutoLayout](#tableview-with-autoLayout)
 	-	[ToDo List With SQLite](#todo-list-with-sqlite)
 	
 -	[Contribution](#contribution)
@@ -55,6 +55,10 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 ### Slider and Switch
 
 *	[Slider & Switch](https://github.com/aashishtamsya/Sliders-Switch) - Implementation of slider & switches in iOS using Objective-C. 
+
+### TableView With AutoLayout
+
+*	[TableView With AutoLayout](https://github.com/aashishtamsya/TableView-With-AutoLayout) - TableView implemented with custom cell and used autolayout. 
 
 ### SQLite
 
