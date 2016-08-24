@@ -1,8 +1,13 @@
-# iOS Development Course
+# iOS Development Study Material
+
+<!---
+Created by Aashish Tamsya on 16/08/16.
+Copyright © 2016 Aashish Tamsya. All rights reserved.
+-->
 
 [![Platform](https://img.shields.io/badge/platform-ios-lightgrey.svg)]()
 [![Programming Language](https://img.shields.io/badge/language-objective--c-ff69b4.svg)]()
-[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()
+<[![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/filp/whoops.svg?maxAge=2592000)]()>
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](/LICENSE.md)
 
 Study Material for iOS Development in Objective-C.
@@ -33,6 +38,11 @@ Study Material for iOS Development in Objective-C.
 * Xcode 7.0
 
 ## iOS
+
+<!---
+Created by Aashish Tamsya on 16/08/16.
+Copyright © 2016 Aashish Tamsya. All rights reserved.
+-->
 
 ### Label | Button | View | Controller
 
