@@ -13,10 +13,10 @@ Study Material for iOS Development in Objective-C.
 -	[Prerequisites](#prerequisites)
 -	[Requirements](#requirements)
 -	[iOS](#ios)
-	-	[Label | Button | View | Controller](#label-|-button-|-view-|-controller)
-	-	[TextField | Keyboard](#textfield-|-keyboard)
+	-	[Label Button View and Controller](#label-button-view-and-controller)
+	-	[TextField and Keyboard](#textField-and-eyboard)
 	-	[Slider and Switch](#slider-and-switch)
-	-	[SQLite](#sqlite)
+	-	[ToDo List With SQLite](#todo-list-with-sqlite)
 	
 -	[Contribution](#contribution)
 -	[Credits](#credits)
@@ -38,7 +38,7 @@ Study Material for iOS Development in Objective-C.
 
 *	[Tap Counter App](https://github.com/aashishtamsya/Tap-Counter-ObjC) - An iOS Application written in Objective-C which uses button, label and views for representation of tap counter.
 
-### TextField | Keyboard
+### TextField and Keyboard
 
 *	[Cat Years App](https://github.com/aashishtamsya/CatYears) - An iOS Application written in Objective-C which uses textfield and keyboard for calculation of cat years of a human age.
 
@@ -48,7 +48,7 @@ Study Material for iOS Development in Objective-C.
 
 ### SQLite
 
-*	[SQLite](https://github.com/aashishtamsya/SQLite) - An iOS Application with SQLite as offline backend. 
+*	[ToDo List With SQLite](https://github.com/aashishtamsya/ToDo-List-Using-SQLite) - An iOS Application with SQLite as offline backend to implement To Do List App. 
 
 
 ## Contribution
