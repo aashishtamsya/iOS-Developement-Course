@@ -44,9 +44,11 @@ Created by Aashish Tamsya on 16/08/16.
 Copyright © 2016 Aashish Tamsya. All rights reserved.
 -->
 
-### Label | Button | View | Controller
+### Label Button View and Controller
 
 *	[Tap Counter App](https://github.com/aashishtamsya/Tap-Counter-ObjC) - An iOS Application written in Objective-C which uses button, label and views for representation of tap counter.
+
+![ATTapCounter DEMO](/Resources/ATTapCounter.gif)
 
 ### TextField and Keyboard
 
