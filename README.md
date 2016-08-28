@@ -21,7 +21,9 @@ Study Material for iOS Development in Objective-C.
 	-	[TextField and Keyboard](#textField-and-eyboard)
 	-	[Slider and Switch](#slider-and-switch)
 	-	[TableView With AutoLayout](#tableview-with-autoLayout)
+	-	[XML Parsing](#xml-parsing)
 	-	[ToDo List With SQLite](#todo-list-with-sqlite)
+	
 	
 -	[Contribution](#contribution)
 -	[Credits](#credits)
@@ -61,6 +63,10 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 ### TableView With AutoLayout
 
 *	[TableView With AutoLayout](https://github.com/aashishtamsya/TableView-With-AutoLayout) - TableView implemented with custom cell and used autolayout. 
+
+### XML Parsing
+
+*	[XML Parsing](https://github.com/aashishtamsya/XML-Parsing) - XML Parsing to fetch data and display on screen. 
 
 ### SQLite
 
