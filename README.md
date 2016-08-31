@@ -1,4 +1,4 @@
-# iOS Development Study Material
+# iOS Development For Beginners
 
 <!---
 Created by Aashish Tamsya on 16/08/16.
@@ -31,7 +31,7 @@ Study Material for iOS Development in Objective-C.
 
 ## Prerequisites
 
-*	Objective C 
+*	[Objective C For Beginners](https://github.com/aashishtamsya/Objective-C-For-Beginners)
 *	Basic C/C++ Programming fundamentals
 *	Object Oriented Concepts
 
@@ -89,6 +89,6 @@ aashish.tamsya@gmail.com
 
 ## License
 
-The content of [*iOS Developement Course*](https://github.com/aashishtamsya/iOS-Developement-Course) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
+The content of [*iOS Development For Beginners*](https://github.com/aashishtamsya/iOS-Developement-Course) itself is licensed under the [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/3.0/us/deed.en_US), and the underlying source code used to format and display that content is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
 
 See the [LICENSE](LICENSE.md) file for more info.
