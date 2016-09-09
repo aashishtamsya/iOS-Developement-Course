@@ -51,11 +51,13 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 
 *	[Text Input in iOS](https://github.com/aashishtamsya/Text-Input-in-iOS) - Get user text input from screen using UITextField and manipute it.
 
+![Text Input in iOS Demo](Resources/ATTextInputDemo.gif)
+
 ### Label Button View and Controller
 
 *	[Tap Counter App](https://github.com/aashishtamsya/Tap-Counter-ObjC) - An iOS Application written in Objective-C which uses button, label and views for representation of tap counter.
 
-![ATTapCounter DEMO](/Resources/ATTapCounter.gif)
+![Tap Counter App DEMO](/Resources/ATTapCounter.gif)
 
 ### TextField and Keyboard
 
