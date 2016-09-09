@@ -51,9 +51,7 @@ Copyright © 2016 Aashish Tamsya. All rights reserved.
 
 *	[Text Input in iOS](https://github.com/aashishtamsya/Text-Input-in-iOS) - Get user text input from screen using UITextField and manipute it.
 
-<img src="https://github.com/aashishtamsya/iOS-Developement-For-Beginners/blob/master/Resources/ATTextInputDemo.gif" width="150">
-
-![Text Input in iOS Demo](Resources/ATTextInputDemo.gif)
+<img src="https://github.com/aashishtamsya/iOS-Developement-For-Beginners/blob/master/Resources/ATTextInputDemo.gif" width="210">
 
 ### Label Button View and Controller
 
